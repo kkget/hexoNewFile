@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2457e1f7-a1f0-49ba-b7b5-b8e87df9d7fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/hexoNewFile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scaffolds/draft.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scaffolds/page.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scaffolds/post.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/404.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/CompletableFuture.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/JVM从入门到放弃.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/JVM从入门到放弃/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/JVM从入门到放弃/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/JVM从入门到放弃/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/JVM从入门到放弃/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/JVM从入门到放弃/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/JVM从入门到放弃/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/JVM从入门到放弃/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/JVM从入门到放弃/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/JVM调优相关.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/Java并发真讨厌.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/List遍历删除.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/Nginx安装与原理.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/SpringCloudAlibaba服务注册新发现.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/Thymleaf项目常用操作.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/java常见10道面试题-小马哥.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/优雅永不过时.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/字节跳动面经个人搜索答案.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/拒绝解析又臭又长的JSON.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/数据库中间件系列[Mycat+Sharding-Sphere].md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/有没有有顺序的Map实现类，如果有，他们是怎么保证有序的。.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/编程算法题.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/蚂蚁一面整理.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/重视Netty源码解析.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/阿里云服务器导致图片不显示.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/categories/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/robot.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/tags/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/themes/next/source/live2d-widget" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/TestLinuxDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/404.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/word.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/js/click_show_text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/js/clicklove.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/js/clicksocialvalue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/lib/fancybox" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/robot.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-next" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-next/source/js/src/fireworks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/_config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/languages/de.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/languages/default.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/languages/es.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/languages/fr.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/languages/ja.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/languages/ko.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/languages/nl.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/languages/no.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/languages/pt.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/languages/ru.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/languages/zh-CN.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/languages/zh-TW.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_partial/after-footer.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_partial/archive-post.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_partial/archive.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_partial/article.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_partial/footer.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_partial/gauges-analytics.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_partial/google-analytics.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_partial/head.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_partial/header.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_partial/mobile-nav.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/category.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/date.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/gallery.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/nav.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/tag.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/title.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_partial/sidebar.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_widget/archive.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_widget/category.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_widget/recent_posts.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_widget/tag.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_widget/tagcloud.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/archive.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/category.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/index.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/layout.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/page.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/post.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/tag.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/scripts/fancybox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/_extend.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/_partial/archive.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/_partial/article.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/_partial/comment.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/_partial/footer.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/_partial/header.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/_partial/highlight.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/_partial/mobile.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/_partial/sidebar-aside.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/_partial/sidebar-bottom.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/_partial/sidebar.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/_util/grid.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/_util/mixin.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/_variables.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/images/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/style.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/fancybox_loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/fancybox_loading@2x.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/fancybox_overlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/fancybox_sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/fancybox_sprite@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/fancybox_buttons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-buttons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-buttons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-media.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-thumbs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-thumbs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/jquery.fancybox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/jquery.fancybox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/jquery.fancybox.pack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/js/script.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+        <option value="$PROJECT_DIR$/.idea/hexoNewFile.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-2" />
+    <option name="y" value="248" />
+    <option name="width" value="1400" />
+    <option name="height" value="922" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hexoNewFile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hexoNewFile" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2457e1f7-a1f0-49ba-b7b5-b8e87df9d7fe" name="Default Changelist" comment="" />
+      <created>1602835603804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602835603804</updated>
+      <workItem from="1602835605879" duration="909000" />
+    </task>
+    <task id="LOCAL-00001" summary="新增文件">
+      <created>1602835655661</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602835655661</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="909000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1618" height="870" extended-state="6" />
+    <layout>
+      <window_info id="JRebel" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info id="Alibaba Cloud Explorer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" weight="0.58630955" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" />
+      <window_info anchor="bottom" id="JRebel Console" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="aiXcoder" />
+      <window_info anchor="right" id="Alibaba ROS Templates" />
+      <window_info anchor="right" id="Alibaba Function Compute" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Alibaba Log Console" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="新增文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增文件" />
+  </component>
+</project>

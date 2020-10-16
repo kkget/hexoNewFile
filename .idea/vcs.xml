@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/themes/next/source/live2d-widget" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/hexo-theme-indigo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/hexo-theme-indigo/source/lib/fancybox" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/hexo-theme-next" vcs="Git" />
+  </component>
+</project>
